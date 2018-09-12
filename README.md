@@ -1,6 +1,8 @@
 # Sorting-Swift
 Sorting algorithms written in Swift 4
 
+~Codes~
+
 ## Codes
 
 ### 1. Selection Sort
